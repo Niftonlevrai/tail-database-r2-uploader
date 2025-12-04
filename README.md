@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Tail Database R2 Uploader
 
 Uploads data that has been exported by [tail-database-exporter](https://github.com/Tail-Database/tail-database-exporter) to [Cloudflare R2](https://www.cloudflare.com/en-gb/products/r2/).
